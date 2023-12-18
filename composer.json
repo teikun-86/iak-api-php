@@ -1,6 +1,6 @@
 {
-    "name": "iak-id/iak-api-php",
-    "description": "PHP-based SDK for IAK API Services",
+    "name": "teikun-86/iak-api-php",
+    "description": "PHP-based SDK for IAK API Services (Forked from original iak-id/iak-api-php)",
     "type": "library",
     "license": "MIT",
     "authors": [
